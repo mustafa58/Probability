@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554400187 source:/home/mustafa/Masaüstü/Probability/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
